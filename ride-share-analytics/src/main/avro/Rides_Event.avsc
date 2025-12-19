@@ -1,0 +1,11 @@
+{
+  "type": "record",
+  "name": "RidesEvent",
+  "namespace": "com.technogise.avro",
+  "fields": [
+    { "name": "rideId", "type": "string" },
+    { "name": "city", "type": "string" },
+    { "name": "type", "type": "string" },
+    { "name": "timestamp", "type": "string" }
+  ]
+}
