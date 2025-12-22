@@ -6,8 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class RideShareAnalyticsApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(RideShareAnalyticsApplication.class, args);
-	}
-
+  public static void main(String[] args) {
+    SpringApplication.run(RideShareAnalyticsApplication.class, args);
+  }
 }
